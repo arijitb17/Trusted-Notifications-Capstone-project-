@@ -1,4 +1,4 @@
-LOADTEST_README.md
+
 Load Testing Guide – Trusted Notification Orchestrator
 
 This document provides a clear and complete guide for performing load testing on the Trusted Notification Orchestrator. The objective of this test is to verify that the system can process thousands of incoming events reliably while maintaining routing accuracy, idempotency, failover behavior, and proper logging.
